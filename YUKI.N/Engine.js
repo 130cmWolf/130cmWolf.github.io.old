@@ -84,7 +84,7 @@ var aftcnt    = -1;
 var Spacelng  = "";
 var Spacelng2 = "";
 var colorn    = new Array("#DDDDDD","#CCCCCC","#BBBBBB","#AAAAAA","#999999","#888888","#777777","#666666","#555555","#444444","#333333","#222222","#111111","#000000");
-var mainURL   = "https://130cmwolf.github.io/YUKI.N/";
+var mainURL   = "https://130cmwolf.github.io/";
 
 function fadeout(fadewait){
 	if(fadecnt >= colorn.length){
